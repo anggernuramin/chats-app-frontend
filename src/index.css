@@ -1,0 +1,15 @@
+body {
+  background-color: red;
+}
+.header-home {
+  position: absolute;
+  top: -60px;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 500;
+}
+.header-form {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
